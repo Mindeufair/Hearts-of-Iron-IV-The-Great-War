@@ -11,8 +11,7 @@
  industrial_complex:0 "Usine Civile"
  industrial_complex_plural:0 "Usines Civiles"
  industrial_complex_desc:0 "Ces bâtiments permettent la production de marchandises civiles, et la construction de nouveaux bâtiments. Ils peuvent être convertis en usines militaires si besoin."
- air_base:0 "Base Aérienne"
- air_base_plural:0 "Bases Aériennes"
+ air_base:0 "Base 
  air_base_desc:0 "Avec des hangars, des ateliers et des pistes de décollage, ces constructions permettent de déployer nos forces aériennes dans cette région."
  naval_base:0 "Base Navale"
  naval_base_plural:0 "Bases Navales"
